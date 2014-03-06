@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Curator.im
+Exec=qmlscene --fullscreen $@ curator-phablet.qml
+Icon=curator.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
