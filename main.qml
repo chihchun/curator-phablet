@@ -248,7 +248,7 @@ MainView {
             MouseArea {
                 anchors.fill: parent;
                 onClicked: {
-                    Qt.openUrlExternally("http://github.com/chihchun");
+                    Qt.openUrlExternally("https://github.com/chihchun/curator-phablet");
                 }
             }
         }
