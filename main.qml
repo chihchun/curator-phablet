@@ -187,7 +187,7 @@ MainView {
         Tabs {
             visible: true;
             Tab {
-                title: i18n.tr("小海嚴選");
+                title: i18n.tr("正妹流 | 小海嚴選");
                 page: Page {
                     anchors.fill: parent;
                     Flickable {
