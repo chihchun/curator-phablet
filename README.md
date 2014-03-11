@@ -5,7 +5,7 @@ Curator for Ubuntu Desktop and Ubuntu Mobile
 
 
 [![Demo on Nexus4](http://img.youtube.com/vi/moXHJ_F3TCg/0.jpg)](http://www.youtube.com/watch?v=moXHJ_F3TCg)
-[![Demo on Desktop](http://i.imgur.com/G2QmKr0.jpg)]
+![Demo on Desktop](http://i.imgur.com/G2QmKr0.jpg)
 
 TODO
 ----
