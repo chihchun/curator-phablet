@@ -8,8 +8,8 @@
             "desktop": "curator-phablet.desktop"
         }
     },
-    "maintainer": "Rex Tsai <rex.cc.tsai@gmail.com>",
+    "maintainer": "Rex Tsai <chihchun@nutsfactory.net>",
     "name": "net.nutsfactory.curator",
     "title": "小海嚴選",
-    "version": "0.1"
+    "version": "0.2"
 }
