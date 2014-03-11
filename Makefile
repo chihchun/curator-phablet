@@ -8,6 +8,7 @@
 # sudo apt-get install python-autopilot autopilot-qt
 #############################################################
 
+DIST=curator-phablet.desktop curator-phablet.json curator-phablet.qml curator.png main.qml manifest.json viewer.qml
 all:
 
 autopilot:
@@ -19,6 +20,9 @@ check:
 
 run:
 	/usr/bin/qmlscene $@ curator-phablet.qml
+clean:
+	$(RM) -r build *.click
 
 build:
-	click build `pwd`
+	mkdir build && cp ${DIST} build
+	click build build
